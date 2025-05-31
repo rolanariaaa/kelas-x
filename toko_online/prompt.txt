@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 saya akan membuat toko online yang terdiri dari 4 bagian yaitu : header ,banner, produk, dan footer. dimana isi dari header adalah : menu,kolom pencarian,register,login. isi banner 2 kolom, untuk 1 banner statis dan 1 banner dinamis. isi dari produk adalah : gambar,beserta nama produk. footer berisi : menu, pembayaran, media sosial dan juga kontak. buatkan halaman HTML nya saja
 
+=======
+saya akan membuat toko online yang terdiri dari 4 bagian yaitu : header ,banner, produk, dan footer. dimana isi dari header adalah : menu,kolom pencarian,register,login. isi banner 2 kolom, untuk 1 banner statis dan 1 banner dinamis. isi dari produk adalah : gambar,beserta nama produk. footer berisi : menu, pembayaran, media sosial dan juga kontak. buatkan halaman HTML nya saja
+
+>>>>>>> 4e8b15f (first commit)

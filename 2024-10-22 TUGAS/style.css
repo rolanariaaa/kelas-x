@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
    overflow-x: hidden;
    margin: 0;
@@ -170,4 +171,178 @@ td {
     top: 900px;
     width: 100%;
     height: auto;
+=======
+body {
+   overflow-x: hidden;
+   margin: 0;
+   padding: 0;
+   height: 900px;
+}
+.container {
+    background-color:rgb(249, 151, 116);
+    position: relative;
+    width: 100%;
+    height: 180vh;
+}
+
+.foto img {
+    width: 200px;
+    height: 220px;
+    position: relative;
+    top: 100px;
+    left: 40rem;
+    border-radius: 60%;
+}
+.nama {
+    font-family: sans-serif;
+    position: relative;
+    top: -150px;
+    left: 190px;
+    color: rgb(94, 90, 90);
+}
+.garis {
+    width: 300px;
+    height: 3px;
+    background-color: grey;
+}
+.judul h1 {
+    font-family: calibri;
+    position: relative;
+    top: -150px;
+    left: 190px;
+    color: rgb(64, 62, 62);
+}
+.garis1 {
+    width: 300px;
+    height: 4.5px;
+    background-color: grey;
+    position: relative;
+    top: -150px;
+    left: 190px;
+}
+.pengenalan p {
+    color: rgb(69, 69, 69);
+    text-align: left;
+    position: relative;
+    top: -150px;
+    left: 190px;
+}
+.kontak h1 {
+    font-family: calibri;
+    position: relative;
+    top: -150px;
+    left: 190px;
+    color: rgb(64, 62, 62);
+}
+.isi-kontak img{
+    width: 30px;
+    height: 30px;
+}
+.container-gambar1 {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: 190px;
+}
+.container-gambar1 p {
+    position: relative;
+    top: -10px;
+    left: 20px;
+}
+.container-gambar2 {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: 190px;
+}
+.container-gambar2 p {
+    position: relative;
+    top: -10px;
+    left: 20px;
+}
+.isi-pendidikan h1{
+    font-family: calibri;
+    color: rgb(64, 62, 62);
+    position: relative;
+    top: -90px;
+    left: 190px;
+}
+.garis2 {
+    width: 300px;
+    height: 4.5px;
+    background-color: grey;
+    position: relative;
+    top: -90px;
+    left: 190px;
+}
+.isi-pendidikan h4{
+    color: rgb(64, 62, 62);
+    font-size: 20px;
+    font-family: calibri;
+    position: relative;
+    top: -80px;
+    left: 190px;
+}
+.isi-pendidikan small {
+    color: rgb(69, 69, 69);
+    font-size: 15px;
+    font-family: calibri;
+    position: relative;
+    top: -90px;
+    left: 190px;
+}
+.isi-bahasaprogram h1{
+    font-family: calibri;
+    position: relative;
+    top: -600px;
+    left: 600px;
+    color: rgb(64, 62, 62);
+}
+.garis3 {
+    width: 300px;
+    height: 4.5px;
+    background-color: grey;
+    position: relative;
+    top: -600px;
+    left: 600px;
+}
+.isi-bahasaprogram ul {
+    font-size: 17px;
+    font-family: calibri;
+    position: relative;
+    top: -600px;
+    left: 600px;
+    color: rgb(64, 62, 62);
+}
+.data-pribadi h1 {
+    font-family: calibri;
+    position: relative;
+    top: -600px;
+    left: 600px;
+    color: rgb(64, 62, 62);
+}
+.data-pribadi table {
+    font-size: 17px;
+    font-family: calibri;
+    position: relative;
+    top: -600px;
+    left: 600px;
+    color: rgb(64, 62, 62);
+}
+.titik {
+    display: block;
+    margin-top: -5px;
+    margin-left: 150px;
+}
+td {
+    padding: 0 !important;
+    margin: 0 !important;
+    line-height: 5px;
+}
+.awan svg{
+    position: absolute;
+    top: 900px;
+    width: 100%;
+    height: auto;
+>>>>>>> 4e8b15f (first commit)
 }

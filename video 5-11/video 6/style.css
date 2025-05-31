@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     width: 70%;
     margin: auto;
@@ -23,4 +24,31 @@ div {
   img {
     border: 1px solid black;
     margin: 10px;
+=======
+div {
+    width: 70%;
+    margin: auto;
+  }
+  
+  h1 {
+    color: yellowgreen;
+    border: 3px solid brown;
+    position: sticky;
+    top: 20px;
+  }
+  
+  h2 {
+    color: lightskyblue;
+    border: 1px dashed gray;
+  }
+  
+  p {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  img {
+    border: 1px solid black;
+    margin: 10px;
+>>>>>>> 4e8b15f (first commit)
   }

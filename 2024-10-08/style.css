@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     font-family: 'Courier New', Courier, monospace;
 }
@@ -17,3 +18,24 @@ h1{
     }
 }
 
+=======
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.warna{
+    background-color: yellow;
+}
+.jarak{
+    gap: 10px;
+}
+@media (min-width:760px){
+    form{
+        display: flex;
+        gap: 20px;
+    }
+    .submit{
+        margin-top: 32px;
+    }
+}
+
+>>>>>>> 4e8b15f (first commit)

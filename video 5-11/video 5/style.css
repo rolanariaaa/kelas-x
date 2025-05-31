@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     width: 70%;
     margin: auto;
@@ -13,4 +14,21 @@ h2 {
 
 p {
     border: 1px solid black;
+=======
+div {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+h2 {
+    color: lightskyblue;
+}
+
+p {
+    border: 1px solid black;
+>>>>>>> 4e8b15f (first commit)
 }
